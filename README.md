@@ -24,7 +24,7 @@
 │  ┌─────────────────┐  ┌──────────────────────────┐  │
 │  │  Add Transaction│  │  Spending by Category    │  │
 │  │                 │  │                          │  │
-│  │  Description    │  │      🍩 Donut Chart      │  │
+│  │  Description    │  │       Donut Chart      │  │
 │  │  Amount ₹       │  │   Food 35% | Bills 20%  │  │
 │  │  Category       │  │   Transport 15% | ...   │  │
 │  │  [Income|Expense│  │                          │  │
@@ -40,19 +40,19 @@
 
 ---
 
-## ✨ Features
+##  Features
 
 | Feature | Description |
 |---|---|
-| ➕ Add Transactions | Log income or expense with description, category, amount, date |
-| 📊 Summary Cards | Live totals for Income, Expenses, and Balance |
-| 🍩 Pie Chart | Spending breakdown by category (Chart.js doughnut) |
-| 📈 Monthly Bar Chart | Income vs Expenses per month over time |
-| 🔍 Filter | Filter transaction list by All / Income / Expense |
-| 📥 Export CSV | Download all transactions as a `.csv` file |
-| 🗑️ Delete Entries | Remove individual transactions |
-| 💾 localStorage | All data persists across browser sessions |
-| 📱 Responsive | Works on desktop and mobile |
+|  Add Transactions | Log income or expense with description, category, amount, date |
+|  Summary Cards | Live totals for Income, Expenses, and Balance |
+|  Pie Chart | Spending breakdown by category (Chart.js doughnut) |
+|  Monthly Bar Chart | Income vs Expenses per month over time |
+|  Filter | Filter transaction list by All / Income / Expense |
+|  Export CSV | Download all transactions as a `.csv` file |
+|  Delete Entries | Remove individual transactions |
+|  localStorage | All data persists across browser sessions |
+|  Responsive | Works on desktop and mobile |
 
 ---
 
@@ -78,7 +78,7 @@
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/budgettracker.git
+git clone https://github.com/LokeshAntil28/budgettracker.git
 cd budgettracker
 ```
 
@@ -124,7 +124,7 @@ Date, Description, Category, Type, Amount
 1. Push to GitHub
 2. Go to repo → **Settings** → **Pages**
 3. Source: **main branch → / (root)**
-4. Live at: `https://YOUR_USERNAME.github.io/budgettracker`
+4. Live at: `https://LokeshAntil28.github.io/budgettracker`
 
 ---
 
@@ -137,4 +137,4 @@ Date, Description, Category, Type, Amount
 ## 👨‍💻 Author
 
 **Lokesh Kumar** · Sonipat, Haryana, India
-📧 17mr.antil@gmail.com · 🐙 [GitHub](https://github.com/YOUR_USERNAME)
+📧 17mr.antil@gmail.com · 🐙 [GitHub](https://github.com/LokeshAntil28)
